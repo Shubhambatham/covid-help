@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Farrukhabad COVID INFORMATION</title>
+<style>
+body {
+  background-image: url("https://i.pinimg.com/originals/6f/b7/7a/6fb77ab725720a69f5f54e090456a1a6.jpg");
+  text-align: center;
+  color: black;
+  font-family: Montserrrat;
+}
+</style>
+</head>
+<body>
+
+<h1><u>COVID INFORMATION</u></h1>
+<h2><b>Farrukhabad</b></h2>
+<p><b><i>Please find the related links below:</i></b></p>
+<ul style:"list-style-type:disc background-color:blue;">
+	<li>
+    </li>
+</ul>
+
+</body>
+</html>
